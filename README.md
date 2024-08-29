@@ -12,4 +12,4 @@ Feel free to explore my projects and collaborate with me on building cutting-edg
 
 ## Import Export Variables
 A plugin for import and export figma variables
-[Repository] (https://github.com/MortezaReisi/ImportExportVariables)
+[Repository](https://github.com/MortezaReisi/ImportExportVariables) 
